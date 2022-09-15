@@ -16,7 +16,7 @@
     "env":{
         "AMDI_SESSION": {
             "description": "Paste the session code you received after scanning the QR from https://replit.com/@BlackAmda/Queen-Amdi-QR-Code",
-            "required": true
+            "required": false
         },
         "ADD_MESSAGE": {
             "description": "Message that a member has been added to the group. If you do not want to change it, keep 'default'.",
